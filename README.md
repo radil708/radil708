@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Ramzi Adil
 - 👀 I’m interested in Software Development, Data Science, Machine Learning
-- 🌱 I’m currently learning Foundations of AI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working in database immigration
 - 📫 You can reach me via e-mail at adil.r@northeastern.edu
 
 <!---
